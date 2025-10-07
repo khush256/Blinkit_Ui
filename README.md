@@ -1,4 +1,4 @@
-# blinkit
+# blinkit UI
 
 <img src="assets/app_images/1.jpg" width="300" /> <img src="assets/app_images/2.jpg" width="300" />
 
