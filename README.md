@@ -1,10 +1,17 @@
 # blinkit
 
-A new Flutter project.
+![Alt text](assets/app_images/1.jpg)
+![Alt text](assets/app_images/2.jpg)
+![Alt text](assets/app_images/3.jpg)
+![Alt text](assets/app_images/4.jpg)
+![Alt text](assets/app_images/5.jpg)
+![Alt text](assets/app_images/6.jpg)
 
-## Getting Started
+<!-- A new Flutter project. -->
 
-This project is a starting point for a Flutter application.
+<!-- ## Getting Started -->
+
+<!-- This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -13,4 +20,4 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference. -->
