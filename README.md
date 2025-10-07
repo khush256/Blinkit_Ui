@@ -1,11 +1,10 @@
 # blinkit
 
-![Alt text](assets/app_images/1.jpg)
-![Alt text](assets/app_images/2.jpg)
-![Alt text](assets/app_images/3.jpg)
-![Alt text](assets/app_images/4.jpg)
-![Alt text](assets/app_images/5.jpg)
-![Alt text](assets/app_images/6.jpg)
+<img src="https://raw.githubusercontent.com/khush256/Blinkit_Ui/blob/master/assets/app_images/1.jpg" width="300" height="650" title="hover text"> <img src="https://raw.githubusercontent.com/khush256/Blinkit_Ui/blob/master/assets/app_images/2.jpg" width="300" height="650" title="hover text">
+
+<img src="https://raw.githubusercontent.com/khush256/Blinkit_Ui/blob/master/assets/app_images/3.jpg" width="300" height="650" title="hover text"> <img src="https://raw.githubusercontent.com/khush256/Blinkit_Ui/blob/master/assets/app_images/4.jpg" width="300" height="650" title="hover text">
+
+<img src="https://raw.githubusercontent.com/khush256/Blinkit_Ui/blob/master/assets/app_images/5.jpg" width="300" height="650" title="hover text"> <img src="https://raw.githubusercontent.com/khush256/Blinkit_Ui/blob/master/assets/app_images/6.jpg" width="300" height="650" title="hover text">
 
 <!-- A new Flutter project. -->
 
